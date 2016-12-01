@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
-from testdict import Dictionary
-from nountest import Noun
-from verbtest import Verb
+from dictionary import Dictionary
+from noun import Noun
+from verb import Verb
 from person import Person
 from case import Case
 from prev import Prev
